@@ -115,20 +115,22 @@ Olympic-Medal-Analysis/
 │   └── analysis.ipynb
 │
 ├── images/
-│   ├── participation_trends.png
-│   ├── top_countries.png
-│   ├── top_sports.png
-│   ├── gender_trends.png
-│   ├── athletics.png
-│   ├── swimming.png
-│   ├── gymnastics.png
-│   ├── rowing.png
-│   ├── fencing.png
-│   ├── average_age.png
-│   ├── youngest_sports.png
-│   └── oldest_sports.png
+│   ├── olympic_participation_trends_athletes.png
+│   ├── olympic_participation_trends_countries.png
+│   ├── country_performance_analysis.png
+│   ├── sport_medal_analysis.png
+│   ├── gender_participation_trends.png
+│   ├── country_dominance_by_sport_athletics.png
+│   ├── country_dominance_by_sport_swimming.png
+│   ├── country_dominance_by_sport_gymnastics.png
+│   ├── country_dominance_by_sport_rowing.png
+│   ├── country_dominance_by_sport_fencing.png
+│   ├── athlete_age_trends_by_year.png
+│   ├── athlete_age_trends_by_sport_youngest.png
+│   └── athlete_age_trends_by_sport_oldest.png
 │
 ├── report/
+│   ├── Olympic_Medal_Report.docx
 │   └── Olympic_Medal_Report.pdf
 │
 ├── README.md
