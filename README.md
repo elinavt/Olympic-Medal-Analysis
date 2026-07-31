@@ -211,19 +211,19 @@ Key findings include:
 
 ### Participation Trends
 
-![Participation Trends](images/participation_trends.png)
+![Participation Trends](images/olympic_participation_trends_athletes.png)
 
 ### Top Medal-Winning Countries
 
-![Top Countries](images/top_countries.png)
+![Top Countries](images/country_performance_analysis.png)
 
 ### Gender Participation Trends
 
-![Gender Trends](images/gender_trends.png)
+![Gender Trends](images/gender_participation_trends.png)
 
 ### Average Athlete Age
 
-![Average Age](images/average_age.png)
+![Average Age](images/athlete_age_trends_by_year.png)
 
 > Additional figures are available in the `images/` directory and the accompanying report.
 
